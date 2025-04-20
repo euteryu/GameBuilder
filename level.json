@@ -1,0 +1,390 @@
+{
+    "start_marker": [
+        888,
+        248
+    ],
+    "end_marker": [
+        1551,
+        585
+    ],
+    "checkpoints": [
+        [
+            744,
+            453
+        ],
+        [
+            1017,
+            499
+        ],
+        [
+            993,
+            420
+        ],
+        [
+            758,
+            459
+        ],
+        [
+            973,
+            452
+        ],
+        [
+            758,
+            450
+        ],
+        [
+            1188,
+            437
+        ],
+        [
+            1280,
+            441
+        ],
+        [
+            1378,
+            424
+        ],
+        [
+            1280,
+            457
+        ]
+    ],
+    "shapes": [
+        {
+            "type": "Rectangle",
+            "position": [
+                744,
+                517
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": [
+                80,
+                80
+            ],
+            "radius": null,
+            "vertices": null
+        },
+        {
+            "type": "Rectangle",
+            "position": [
+                958,
+                516
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": [
+                80,
+                80
+            ],
+            "radius": null,
+            "vertices": null
+        },
+        {
+            "type": "Rectangle",
+            "position": [
+                1182,
+                518
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": [
+                80,
+                80
+            ],
+            "radius": null,
+            "vertices": null
+        },
+        {
+            "type": "Circle",
+            "position": [
+                887,
+                629
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Circle",
+            "position": [
+                1048,
+                551
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Circle",
+            "position": [
+                835,
+                582
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Circle",
+            "position": [
+                938,
+                602
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Circle",
+            "position": [
+                1103,
+                595
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Triangle",
+            "position": [
+                893,
+                323
+            ],
+            "angle": 159.25000000001887,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": null,
+            "vertices": [
+                [
+                    -40,
+                    -40
+                ],
+                [
+                    40,
+                    -40
+                ],
+                [
+                    0,
+                    40
+                ]
+            ]
+        },
+        {
+            "type": "Rectangle",
+            "position": [
+                1098,
+                499
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": true,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": [
+                80,
+                80
+            ],
+            "radius": null,
+            "vertices": null
+        },
+        {
+            "type": "Triangle",
+            "position": [
+                1281,
+                523
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": null,
+            "vertices": [
+                [
+                    -40,
+                    -40
+                ],
+                [
+                    40,
+                    -40
+                ],
+                [
+                    0,
+                    40
+                ]
+            ]
+        },
+        {
+            "type": "Triangle",
+            "position": [
+                1377,
+                506
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": null,
+            "vertices": [
+                [
+                    -40,
+                    -40
+                ],
+                [
+                    40,
+                    -40
+                ],
+                [
+                    0,
+                    40
+                ]
+            ]
+        },
+        {
+            "type": "Triangle",
+            "position": [
+                1446,
+                575
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": null,
+            "vertices": [
+                [
+                    -40,
+                    -40
+                ],
+                [
+                    40,
+                    -40
+                ],
+                [
+                    0,
+                    40
+                ]
+            ]
+        },
+        {
+            "type": "Triangle",
+            "position": [
+                1537,
+                504
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": true,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": null,
+            "vertices": [
+                [
+                    -40,
+                    -40
+                ],
+                [
+                    40,
+                    -40
+                ],
+                [
+                    0,
+                    40
+                ]
+            ]
+        },
+        {
+            "type": "Circle",
+            "position": [
+                1636,
+                560
+            ],
+            "angle": 69.44999999999735,
+            "properties": {
+                "Danger": false,
+                "Spinning": true,
+                "Sticky": false
+            },
+            "size": null,
+            "radius": 40,
+            "vertices": null
+        },
+        {
+            "type": "Rectangle",
+            "position": [
+                1583,
+                643
+            ],
+            "angle": 0.0,
+            "properties": {
+                "Danger": false,
+                "Spinning": false,
+                "Sticky": false
+            },
+            "size": [
+                80,
+                80
+            ],
+            "radius": null,
+            "vertices": null
+        }
+    ]
+}
